@@ -1,5 +1,5 @@
 
 function mct1() {
-        require('mct1-demo').pell
+        require('mct1-demo').
 	
 }
